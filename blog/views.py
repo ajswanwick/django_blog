@@ -4,4 +4,4 @@ from django.http import HttpResponse
 # Create your views here.
 
 def my_blog(request):
- return HttpResponse ("Hello, Blog!")
+ return HttpResponse ("Hello, i am a  Blog!")
